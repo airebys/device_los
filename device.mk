@@ -177,7 +177,7 @@ PRODUCT_PACKAGES += \
     ueventd.qcom.rc
     
 # ConfigPanel
-PRODUCT_PACKAGES += \
+#PRODUCT_PACKAGES += \
     ConfigPanel
     
 # Consumer IR
